@@ -201,4 +201,4 @@ Through this project, I gained hands-on experience with:
 # 📌 Author
 
 Sakshi Sahu  
-B.Tech CSE Student | Python & Java Developer
+B.Tech CSE Student | Java(DSA) & Python | Full Stack Development | Learning SpringBoot & System Design
